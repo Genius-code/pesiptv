@@ -1,0 +1,6 @@
+RewriteEngine On
+#Options -indexes
+#<Files *.php>
+#Order Allow,Deny
+#Deny from all
+#</Files>
